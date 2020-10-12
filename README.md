@@ -11,4 +11,4 @@ A brief informational on hamsters
   <img src="https://images.app.goo.gl/fZCZiW9NcrqVW9cU9"/>
   <p>If you are thinking of buying a hamster, here is a website for how to care for one: https://www.kaytee.com/learn-care/ask-the-small-animal-experts/9-hamster-care-tips-for-beginners</p>
   </body>
-  </html>
+
